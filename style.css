@@ -79,8 +79,8 @@ section:active .runway::before {
 
 .plane {
   position: absolute;
-  bottom: 50px;
-  max-width: 250px;
+  bottom: 100px;
+  max-width: 200px;
   pointer-events: none;
   filter: drop-shadow(10px 10px 0 rgba(0, 0, 0, 0.5));
   transition: 5s;
@@ -88,7 +88,7 @@ section:active .runway::before {
 
 section:active .plane {
   filter: drop-shadow(200px 200px 0 rgba(0, 0, 0, 0));
-  max-width: 500px;
+  max-width: 400px;
 }
 
 .clouds {
@@ -153,10 +153,10 @@ section:active .clouds {
     border-right: 10px solid rgba(0, 0, 0, 0.25);
   }
 
-  .plane {
+/*   .plane {
     bottom: 100px;
     max-width: 200px;
-  }
+  } */
 
   section:active .plane {
     filter: drop-shadow(200px 200px 0 rgba(0, 0, 0, 0));
