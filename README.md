@@ -1,7 +1,7 @@
 <h1 align='center'>Html Css Plane Runway Fly Animation</h1>
 
 ## Plane Controls 
-- Left Click And Hold To Fly Plane 🛫
+- Mouse Left Button Click And Hold To Fly Plane 🛫
 - Release Left Click To Land Plane ✈️
 - Plane Fly Sound On Just Singale Click For AirPlane Use Mouse Left Button 😀 
 
