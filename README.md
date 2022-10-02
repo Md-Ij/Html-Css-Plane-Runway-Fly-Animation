@@ -6,4 +6,4 @@
 
 
 ## Project Live Demo:
-<b>[Plane Fly 🐱‍🏍]</b>(https://html-css-plane-runway-fly-animation.vercel.app/)
+[Plane Fly ✈️](https://html-css-plane-runway-fly-animation.vercel.app/)
